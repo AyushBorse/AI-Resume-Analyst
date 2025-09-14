@@ -64,4 +64,5 @@ Here is a screenshot of the AI Resume Analyst using Streamlit
    This tool uses the OpenAI API. Keep your API key secure and avoid uploading sensitive or confidential personal information.
 
 ## 📬 Contact
-   For feedback or inquiries, feel free to reach out at harshkurware03@gmail.com.
+   For feedback or inquiries, feel free to reach out at ayushborse40@gmail.com.
+
